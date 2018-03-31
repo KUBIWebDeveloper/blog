@@ -22,7 +22,7 @@
     });if (t) return t[2];var c = new Promise(function (n, r) {
       t = o[e] = [n, r];
     });t[2] = c;var a = document.getElementsByTagName("head")[0],
-        u = document.createElement("script");u.type = "text/javascript", u.charset = "utf-8", u.async = !0, u.timeout = 12e4, n.nc && u.setAttribute("nonce", n.nc), u.src = n.p + "js/" + ({ 14: "js/app", 15: "js/vendor" }[e] || e) + "." + { 0: "3c715484", 1: "7a17345a", 2: "902101b3", 3: "f28cb2b1", 4: "c7e4ecc3", 5: "4c51a44c", 6: "5059e070", 7: "a6d5e317", 8: "03b29123", 9: "acbb0f32", 10: "a119cfd7", 11: "38632155", 12: "d2868696", 13: "4b156987", 14: "de706fc1", 15: "7971fe06" }[e] + ".js";var i = setTimeout(r, 12e4);return u.onerror = u.onload = r, a.appendChild(u), c;
+        u = document.createElement("script");u.type = "text/javascript", u.charset = "utf-8", u.async = !0, u.timeout = 12e4, n.nc && u.setAttribute("nonce", n.nc), u.src = n.p + "js/" + ({ 14: "js/app", 15: "js/vendor" }[e] || e) + "." + { 0: "3c715484", 1: "7a17345a", 2: "902101b3", 3: "f28cb2b1", 4: "c7e4ecc3", 5: "4c51a44c", 6: "5059e070", 7: "a6d5e317", 8: "03b29123", 9: "acbb0f32", 10: "a119cfd7", 11: "38632155", 12: "d2868696", 13: "4b156987", 14: "ee4cf4fe", 15: "7971fe06" }[e] + ".js";var i = setTimeout(r, 12e4);return u.onerror = u.onload = r, a.appendChild(u), c;
   }, n.m = e, n.c = t, n.d = function (e, r, t) {
     n.o(e, r) || Object.defineProperty(e, r, { configurable: !1, enumerable: !0, get: t });
   }, n.n = function (e) {
@@ -33,8 +33,8 @@
     };return n.d(r, "a", r), r;
   }, n.o = function (e, n) {
     return Object.prototype.hasOwnProperty.call(e, n);
-  }, n.p = "/vonut/", n.oe = function (e) {
+  }, n.p = "", n.oe = function (e) {
     throw console.error(e), e;
   };
 }([]);
-//# sourceMappingURL=manifest.f4bd3d48.js.map
+//# sourceMappingURL=manifest.a5316826.js.map

@@ -325,10 +325,10 @@ webpackJsonp([14], [, function (t, e) {
     return "serviceWorker" in navigator && (window.fetch || "imageRendering" in document.documentElement.style) && ("https:" === window.location.protocol || "localhost" === window.location.hostname || 0 === window.location.hostname.indexOf("127."));
   }function r(t) {
     if (t || (t = {}), n()) {
-      navigator.serviceWorker.register("\\vonut\\sw.js");
+      navigator.serviceWorker.register("\\sw.js");
     } else if (window.applicationCache) {
       var e = function e() {
-        var t = document.createElement("iframe");t.src = "\\vonut\\appcache\\manifest.html", t.style.display = "none", s = t, document.body.appendChild(t);
+        var t = document.createElement("iframe");t.src = "\\appcache\\manifest.html", t.style.display = "none", s = t, document.body.appendChild(t);
       };return void ("complete" === document.readyState ? setTimeout(e) : window.addEventListener("load", e));
     }
   }function o(t, e) {}function a() {
@@ -339,4 +339,4 @@ webpackJsonp([14], [, function (t, e) {
     } catch (t) {}
   }var s;e.install = r, e.applyUpdate = o, e.update = a;
 }], [6]);
-//# sourceMappingURL=app.de706fc1.js.map
+//# sourceMappingURL=app.3b491a89.js.map
