@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/docs/js/6.5059e070.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/5.4c51a44c.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/3.f28cb2b1.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/1.7a17345a.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/4.c7e4ecc3.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/12.d2868696.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/0.3c715484.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/9.acbb0f32.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/vendor.7971fe06.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/13.4b156987.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/manifest.f4bd3d48.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/7.a6d5e317.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/10.a119cfd7.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/app.de706fc1.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/8.03b29123.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/11.38632155.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/js/2.902101b3.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/sw.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/docs/js/6.5059e070.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/5.4c51a44c.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/3.f28cb2b1.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/1.7a17345a.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/4.c7e4ecc3.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/12.d2868696.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/0.3c715484.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/9.acbb0f32.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/vendor.7971fe06.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/13.4b156987.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/manifest.f4bd3d48.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/7.a6d5e317.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/10.a119cfd7.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/app.de706fc1.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/8.03b29123.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/11.38632155.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/js/2.902101b3.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/sw.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
